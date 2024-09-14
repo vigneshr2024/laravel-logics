@@ -1,0 +1,15 @@
+{
+    "name": "sensiple/auth",
+    "autoload": {
+        "psr-4": {
+            "Sensiple\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cheran",
+            "email": "cheran.sengodan@sensiple.com"
+        }
+    ],
+    "require": {}
+}

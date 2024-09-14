@@ -1,0 +1,16 @@
+{
+    "name": "sensiple/permission",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sensiple\\Permissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cheran",
+            "email": "cheran.sengodan@sensiple.com"
+        }
+    ],
+    "require": {}
+}

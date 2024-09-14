@@ -1,0 +1,15 @@
+{
+    "name": "sensiple/blog",
+    "autoload": {
+        "psr-4": {
+            "Sensiple\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vignesh",
+            "email": "vignesh.ramesh@sensiple.com"
+        }
+    ],
+    "require": {}
+}
